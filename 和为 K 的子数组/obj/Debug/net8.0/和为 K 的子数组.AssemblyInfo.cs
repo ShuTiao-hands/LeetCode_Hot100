@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("和为 K 的子数组")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42fff596daaa8bc3075d1d695e069c037b14aedb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2960ca829ac29e34197be5b52fb419cc7c47d00")]
 [assembly: System.Reflection.AssemblyProductAttribute("和为 K 的子数组")]
 [assembly: System.Reflection.AssemblyTitleAttribute("和为 K 的子数组")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
